@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<host-info>
+    <host hostname="10.199.196.125" port ="22">
+        <username>root</username>
+        <password>abc123</password>
+        <job>lscpu</job>>
+    </host>
+    <host hostname="10.199.196.125" port ="22">
+        <username>root</username>
+        <password>abc123</password>
+        <job>-m</job>>
+    </host>
+    <host hostname="10.199.196.125" port ="22">
+        <username>root</username>
+        <password>abc123</password>
+        <job>-h</job>>
+    </host>
+    <host hostname="10.199.196.125" port ="22">
+        <username>root</username>
+        <password>abc123</password>
+        <job>w</job>>
+    </host>
+</host-info>
