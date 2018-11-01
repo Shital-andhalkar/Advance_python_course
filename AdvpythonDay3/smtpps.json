@@ -1,0 +1,5 @@
+{
+"smtp":"mailhub.lss.emc.com",
+"from_address":"bhagyesh.dudhediya@emc.com",
+"to_address":"bhagyesh.dudhediya@emc.com"
+}
